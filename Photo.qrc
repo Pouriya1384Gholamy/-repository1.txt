@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>photo/Linkdin.png</file>
+        <file>photo/Home.jpg</file>
+        <file>photo/icons8-user-50.png</file>
+        <file>photo/Search.png</file>
+        <file>photo/download.png</file>
+        <file>photo/bag (1).png</file>
+        <file>photo/mynetwork (1).png</file>
+        <file>photo/comment.png</file>
+        <file>photo/Multimedia__287_29.jpg</file>
+        <file>photo/Multiplypng.parspng.com-2 (1).png</file>
+        <file>photo/replace.png</file>
+        <file>photo/send-symbol (1).png</file>
+        <file>photo/4.webp</file>
+        <file>photo/1.jpg</file>
+        <file>photo/2.jpg</file>
+        <file>photo/3.jpg</file>
+        <file>photo/1236.png</file>
+        <file>photo/istockphoto-1508453163-612x612.jpg</file>
+        <file>photo/istockphoto-1597475039-612x612.jpg</file>
+        <file>photo/istockphoto-1696781145-612x612.jpg</file>
+        <file>photo/istockphoto-1795167728-170667a.webp</file>
+        <file>photo/istockphoto-1515913422-612x612.jpg</file>
+        <file>photo/istockphoto-1623763867-612x612.jpg</file>
+        <file>photo/16241.png</file>
+        <file>photo/Jowhareh_galleries_3_poster_5990c24f_85a6_410a_b02d_7895b4fc57d0.jpeg</file>
+        <file>photo/pic1.jpg</file>
+        <file>photo/pic2.jpg</file>
+        <file>photo/pic3.jpg</file>
+        <file>photo/pic4.jpg</file>
+        <file>photo/pic5.jpg</file>
+        <file>photo/pic6.jpg</file>
+        <file>photo/pic7.jpg</file>
+        <file>photo/pic8.jpg</file>
+        <file>photo/pic9.jpg</file>
+        <file>photo/pic10.jpg</file>
+        <file>photo/pic11.jpg</file>
+        <file>photo/pic12.jpg</file>
+        <file>photo/Woman.jpg</file>
+        <file>photo/6c909940-4fa2-11ee-a70b-e7630f83e36a.jpg</file>
+        <file>photo/6cd746b0-4fa2-11ee-afc0-d9d1834951ad.jpg</file>
+        <file>photo/6d639d40-4fa2-11ee-8a5b-cd5f522ee0ba.jpg</file>
+        <file>photo/6dbe6d10-4fa2-11ee-964f-d1b9ec82877f.jpg</file>
+        <file>photo/57b46d00-4f61-11ee-b217-35001ab73e13.jpg</file>
+        <file>photo/57ff1530-4f61-11ee-8474-8544511befa8.jpg</file>
+        <file>photo/570b7980-4f61-11ee-899f-cd27dbf21c76.jpg</file>
+        <file>photo/images (1).png</file>
+        <file>photo/images.png</file>
+        <file>photo/images (2).png</file>
+        <file>photo/images (3).png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
